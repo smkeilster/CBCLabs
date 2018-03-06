@@ -1,0 +1,63 @@
+.page{
+	background-color: #99ff99;
+
+}
+
+.header{
+	color: white;
+	font-size: 48px;
+	font-family:Verdana;
+}
+.navbar
+{
+	overflow: hidden;
+	background-color: #ff9999;
+	font-family:Verdana;
+}
+.navbar a
+{
+	float:right;
+	color: white;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-family:Verdana;
+}
+.navbar a:hover
+{
+	background-color: white;
+	color: #ff9999;
+	font-family:Verdana;
+}
+.navbar a.active
+{
+	background-color: white;
+	color: #ff9999;
+	font-family:Verdana;
+}
+
+.plantportfolio
+{
+	align: top;
+	vertical-align: bottom;
+	overflow: auto;
+	border:1px solid white;
+}
+
+.plantportfolio p
+{
+	align: top;
+	padding-left: 10px;
+	overflow: auto;
+	vertical-align: bottom;
+	font-family: Verdana;
+}
+
+.image{
+	color: green;
+	width:30%;
+	font-size: 15px;
+	padding: 15px;
+	float:left;
+	align: top;
+
+}
