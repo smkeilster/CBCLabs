@@ -115,11 +115,7 @@ button:hover {
 }
 
 /* The Modal (background) */
-<<<<<<< HEAD
-.signupform {
-=======
 .modal {
->>>>>>> 748d9c6633a831929e6ea9a3d6bad6fef58fe70d
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
@@ -133,11 +129,7 @@ button:hover {
 }
 
 /* Modal Content/Box */
-<<<<<<< HEAD
-.signupform-content {
-=======
 .modal-content {
->>>>>>> 748d9c6633a831929e6ea9a3d6bad6fef58fe70d
     background-color: #fefefe;
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
